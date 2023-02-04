@@ -1,8 +1,20 @@
 body {
   background-color: rgb(156, 185, 178);
   color: white;
+  text-align: center;
 }
 
-h1 {
-  text-align: center;
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  font-weight: bolder;
+  padding: 5px;
 }
